@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="rect_et_width">width</string>
+    <string name="rect_et_height">height</string>
+    <string name="circle_et_radius">radius</string>
+    <string name="tri_et_base">base</string>
+    <string name="tri_et_height">height</string>
+    <string name="cal_btn">calculate</string>
+
+    <string-array name="shapes">
+        <item>rectangle</item>
+        <item>circle</item>
+        <item>triangle</item>
+    </string-array>
+
+</resources>

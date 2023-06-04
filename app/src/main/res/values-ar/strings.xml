@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="rect_et_width">الطول</string>
+    <string name="rect_et_height">الارتفاع</string>
+    <string name="circle_et_radius">القطر</string>
+    <string name="tri_et_base">القاعده</string>
+    <string name="tri_et_height">الارتفاع</string>
+    <string name="cal_btn">احسب</string>
+    <string-array name="shapes">
+        <item>مستطيل</item>
+        <item>دائره</item>
+        <item>مثلث</item>
+    </string-array>
+
+</resources>
